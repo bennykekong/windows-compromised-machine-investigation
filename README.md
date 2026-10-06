@@ -189,6 +189,9 @@ The investigation demonstrated how multiple small indicators can be combined to 
 ### 6. Audit Log Clearing and Incident Timeline
 ![Audit Log Clearing Timeline](screenshots/06-audit-log-clearing-timeline.png)
 
+### 7. Assessment Result — 20/20
+![Compromised Machine Assessment Result](screenshots/07-compromised-machine-assessment-result-20-of-20.png)
+
 ---
 
 ## 📄 Project Evidence
@@ -200,6 +203,8 @@ The completed Windows compromised-machine investigation report is included in th
 The evidence demonstrates Windows host identification, SSH/PID investigation, process and hash analysis, user privilege review, failed-logon analysis, Windows Event Viewer investigation and audit-log-clearing analysis.
 
 **Assessment result:** 20/20
+
+[🏆 View Assessment Result](screenshots/07-compromised-machine-assessment-result-20-of-20.png)
 
 ---
 
