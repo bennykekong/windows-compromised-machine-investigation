@@ -171,13 +171,33 @@ The investigation demonstrated how multiple small indicators can be combined to 
 
 ## 📸 Project Screenshots
 
-Supporting screenshots from the compromised-machine investigation will be added to this section.
+### 1. Windows Host Identification
+![Windows Host Identification](screenshots/01-windows-host-identification.png)
+
+### 2. SSH Connection and PID Analysis
+![SSH Connection and PID Analysis](screenshots/02-ssh-connection-pid-analysis.png)
+
+### 3. Process and Hash Analysis
+![Process and Hash Analysis](screenshots/03-process-and-hash-analysis.png)
+
+### 4. User Account and Privilege Analysis
+![User Account Privilege Analysis](screenshots/04-user-account-privilege-analysis.png)
+
+### 5. Failed Logon Event Analysis
+![Failed Logon Event Analysis](screenshots/05-failed-logon-event-analysis.png)
+
+### 6. Audit Log Clearing and Incident Timeline
+![Audit Log Clearing Timeline](screenshots/06-audit-log-clearing-timeline.png)
 
 ---
 
 ## 📄 Project Evidence
 
-The completed Investigating a Compromised Machine submission will be included in this repository as supporting evidence.
+The completed Windows compromised-machine investigation report is included in this repository as supporting evidence.
+
+[📄 View Investigation Report](Investigating%20a%20Compromised%20Machine%20Submission.docx)
+
+The evidence demonstrates Windows host identification, SSH/PID investigation, process and hash analysis, user privilege review, failed-logon analysis, Windows Event Viewer investigation and audit-log-clearing analysis.
 
 **Assessment result:** 20/20
 
